@@ -2,6 +2,8 @@
 
 This is the version of the Sphinx AI Academy Educational Hub that was built with Meta AI. It is kept as a separate candidate alongside [`sphinx-ai-academy-hub`](https://github.com/Basnight59/sphinx-ai-academy-hub), the ChatGPT version, until the two are reconciled.
 
+**Live site:** https://basnight59.github.io/sphinx-ai-academy-hub-meta/ (rebuilt and redeployed automatically on every push to `main`).
+
 It is a single-page React app with seven sections: Home, The Method, TTL + GIGO, Curriculum, Scarlet Letter F + Re-entry, Certification (proposed TTL Standard v0.2), and Research / Evidence.
 
 ## Provenance
